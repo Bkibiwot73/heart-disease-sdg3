@@ -11,6 +11,8 @@ This project uses a machine learning model to predict heart disease risk, contri
 ## 📊 Results
 
 Model performance evaluated using classification report and confusion matrix.
+![Confusion Matrix](images/confusion_matrix.png)
+
 
 ## ⚖️ Ethical Reflection
 
