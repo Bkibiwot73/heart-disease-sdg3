@@ -4,9 +4,13 @@ This project uses a machine learning model to predict heart disease risk, contri
 
 ## 💡 About the Project
 
+This project uses a **Supervised Learning** approach with **Logistic Regression** to classify patients as either at risk or not at risk of heart disease.
+
 - **Model**: Logistic Regression
 - **Dataset**: UCI Heart Disease (ID 45)
 - **Tools**: Python, Google Colab, scikit-learn, seaborn
+- **Preprocessing**: Handled missing values with `SimpleImputer` and standardized features with `StandardScaler`
+
 
 ## 📊 Results
 
